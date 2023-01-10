@@ -17,4 +17,4 @@ License: [MIT](license.md "Смотреть лицензию")
 
 ## Как открыть/запустить
 
-[Открыть](https://denor74.github.io/SF-PR-8-7/ "Открыть в Github Pages") в Github Pages
+[Открыть](https://denor74.github.io/SF-PR-8-7/bjs/08_if_else/ "Открыть в Github Pages") в Github Pages
