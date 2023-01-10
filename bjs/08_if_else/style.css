@@ -1,0 +1,13 @@
+.game-card {
+  height: 100vh;
+  font-family: "Open Sans", monospace;
+}
+
+.form-group {
+  margin-inline: auto;
+  padding: 5px;
+  width: auto;
+}
+label {
+  margin: 0 20px;
+}
