@@ -213,7 +213,7 @@ function adValue() {
     // действие при клике на кнопку меньше
     document.getElementById("btnLess").addEventListener("click", function () {
       if (gameRun) {
-        if (minValue === maxValue) {
+        if (minValue === maxValue || minValue === answerNumber) {
           const phraseRandom = Math.round(Math.random());
           const answerPhrase =
             phraseRandom === 1 ?
